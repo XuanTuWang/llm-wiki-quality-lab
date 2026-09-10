@@ -1,1 +1,71 @@
-IyDor4Hmja7kvJjlhYjnn6Xor4blupMKCui/meaYr+S4gOS4quS4reaWh+S8mOWFiOeahOS4quS6uuefpeivhuW6k+W3peeoi++8mui1hOaWmeWFiOi/m+WFpeW3peS9nOWMuu+8jEFJIOaPkOiuruW/hemhu+e7j+S6uuW3peWuoeaguO+8jOWPkeW4g+WQjueahOefpeivhuS4juWbnuetlOWdh+WPr+WbnuWIsOeyvuehruadpea6kOOAggoKIyMg5pys5Zyw5ZCv5YqoCgpgYGBiYXNoCnBucG0gaW5zdGFsbApwbnBtIGRldgpgYGAKCuiuv+mXriBgaHR0cDovL2xvY2FsaG9zdDozMDAwYOOAgummluasoeaJk+W8gOaYr+epuui1hOaWmeW6k++8m+acquWujOaIkOi/nuaOpeaXtu+8jOmhtemdouWPquWxleekuumFjee9ruaMh+W8le+8jOS4jeS8mueUn+aIkOmihOe9rui1hOaWmeOAgeWuoeaguOWGheWuueaIlui0qOmHj+aVsOaNruOAggoKIyMg5a+85YWl6LWE5paZCgrotYTmlpnlupPmlK/mjIHkuInnp43lhaXlj6PvvJoKCi0g57KY6LS05YWs5byA5paH5pys5oiWIE1hcmtkb3du77ybCi0g5LiK5Lyg5aSa5Liq5pys5ZywIGAubWRg44CBYC5tYXJrZG93bmDjgIFgLnR4dGDjgIFgLmpzb25gIOaWh+S7tu+8mwotIOmAieaLqeS4gOS4quaWh+S7tuWkueS9nOS4uuW3peS9nOWMuu+8jOaJuemHj+WvvOWFpeWFtuS4reeahOS4iui/sOaWh+acrOi1hOaWmeOAggoK5paH5Lu25aS55qih5byP5L2/55So5rWP6KeI5Zmo5Y6f55Sf55uu5b2V6YCJ5oup5Zmo44CC57O757uf5Y+q6K+75Y+W5L2g5Zyo6YCJ5oup5Zmo5Lit5Li75Yqo56Gu6K6k55qE5paH5Lu25YaF5a6577yM5LiN5L+d55WZ5pys5Zyw57ud5a+56Lev5b6E77ybQ2hyb21pdW0g57O75rWP6KeI5Zmo55qE5pSv5oyB5pyA5a6M5pW044CCCgojIyDphY3nva7lt6XnqIvov5DooYznjq/looMKCuWkjeWItueOr+Wig+WPmOmHj+aooeadv++8mgoKYGBgYmFzaApjcCAuZW52LmV4YW1wbGUgLmVudi5sb2NhbApgYGAKCuWcqCBgLmVudi5sb2NhbGAg5Lit5aGr5YaZ5Lul5LiL5a2X5q6177yM5paH5Lu25bey6KKrIEdpdCDlv73nlaXvvIzor7fli7/mj5DkuqTmiJbnspjotLTliLDogYrlpKnkuK3vvJoKCmBgYGRvdGVudgojIFN1cGFiYXNlIOeahCBQb3N0Z3JlcyDov57mjqXkuLIKREFUQUJBU0VfVVJMPQoKIyDku7vmhI8gT3BlbkFJLWNvbXBhdGlibGUg5qih5Z6L5pyN5YqhCkxMTV9CQVNFX1VSTD1odHRwczovL2FwaS5vcGVuYWkuY29tL3YxCkxMTV9BUElfS0VZPQpMTE1fTU9ERUw9CgojIExhbmdmdXNlIOmhueebruWHreaNrgpMQU5HRlVTRV9QVUJMSUNfS0VZPQpMQU5HRlVTRV9TRUNSRVRfS0VZPQpMQU5HRlVTRV9CQVNFX1VSTD1odHRwczovL2Nsb3VkLmxhbmdmdXNlLmNvbQpMQU5HRlVTRV9UUkFDSU5HX0VOVklST05NRU5UPWRldmVsb3BtZW50CmBgYAoK5aGr5YaZIGBEQVRBQkFTRV9VUkxgIOWQjuaJp+ihjO+8mgoKYGBgYmFzaApwbnBtIGRiOm1pZ3JhdGUKYGBgCgrpmo/lkI7ph43lkK8gYHBucG0gZGV2YOOAgumhtemdoumhtumDqOS8muiHquWKqOajgOa1i+aVsOaNruW6k+OAgeaooeWei+S4jiBMYW5nZnVzZSDnmoTphY3nva7nirbmgIHvvJvmlbDmja7lupPov57pgJrlkI7vvIzmlrDlop7otYTmlpnkvJrlhpnlhaUgUG9zdGdyZXPvvIzlubbnlJ/miJDniYjmnKzjgIFTSEEtMjU2IOS4juWPr+W8leeUqOWIhuWdl+OAggoKIyMg6aqM6K+B5ZG95LukCgpgYGBiYXNoCnBucG0gdGVzdApwbnBtIHRlc3Q6ZTJlCnBucG0gYnVpbGQKcG5wbSBsaW50CnBucG0gZXhlYyB0c2MgLS1ub0VtaXQKYGBgCgojIyDlvZPliY3ovrnnlYwKCi0g5bey5pSv5oyB77ya5Lit5paH5Lqk5LqS44CB57KY6LS0L+acrOWcsOaWh+S7ti/mlofku7blpLnotYTmlpnlvZXlhaXjgIHlrqHmoLjkuI7lj5HluIPmtYHnqIvjgIHor4Hmja7kuI3otrPmi5LnrZTjgIHnp4Hlr4bmqKHlvI/mj5DnpLrjgIHov5DooYznjq/looPmo4DmtYvjgIHmlbDmja7lupPotYTmlpnmjIHkuYXljJblhaXlj6PjgIIKLSDlkI7nu63mjqXlhaXvvJrmqKHlnovpqbHliqjnmoTnu5PmnoTljJbmj5Dlj5bjgIHlt7Llj5HluIPnn6Xor4bmo4DntKLpl67nrZTjgIFMYW5nZnVzZSDnmoTnnJ/lrp4gVHJhY2XjgIFTY29yZeOAgURhdGFzZXQg5YaZ5YWl44CCCg==
+# 证据优先知识库
+
+这是一个中文优先的个人知识库工程：资料先进入工作区，AI 提议必须经人工审核，发布后的知识与回答均可回到精确来源。
+
+## 本地启动
+
+```bash
+pnpm install
+pnpm dev
+```
+
+访问 `http://localhost:3000`。首次打开是空资料库；未完成连接时，页面只展示配置指引，不会生成预置资料、审核内容或质量数据。
+
+## 导入资料
+
+资料库支持三种入口：
+
+- 粘贴公开文本或 Markdown；
+- 上传多个本地 `.md`、`.markdown`、`.txt`、`.json` 文件；
+- 选择一个文件夹作为工作区，批量导入其中的上述文本资料。
+
+文件夹模式使用浏览器原生目录选择器。系统只读取你在选择器中主动确认的文件内容，不保留本地绝对路径；Chromium 系浏览器的支持最完整。
+
+## 配置工程运行环境
+
+复制环境变量模板：
+
+```bash
+cp .env.example .env.local
+```
+
+在 `.env.local` 中填写以下字段，文件已被 Git 忽略，请勿提交或粘贴到聊天中：
+
+```dotenv
+# Supabase 的 Postgres 连接串
+DATABASE_URL=
+
+# 任意 OpenAI-compatible 模型服务
+LLM_BASE_URL=https://api.openai.com/v1
+LLM_API_KEY=
+LLM_MODEL=
+
+# Langfuse 项目凭据
+LANGFUSE_PUBLIC_KEY=
+LANGFUSE_SECRET_KEY=
+LANGFUSE_BASE_URL=https://cloud.langfuse.com
+LANGFUSE_TRACING_ENVIRONMENT=development
+```
+
+填写 `DATABASE_URL` 后执行：
+
+```bash
+pnpm db:migrate
+```
+
+随后重启 `pnpm dev`。页面顶部会自动检测数据库、模型与 Langfuse 的配置状态；数据库连通后，新增资料会写入 Postgres，并生成版本、SHA-256 与可引用分块。
+
+## 验证命令
+
+```bash
+pnpm test
+pnpm test:e2e
+pnpm build
+pnpm lint
+pnpm exec tsc --noEmit
+```
+
+## 当前边界
+
+- 已支持：中文交互、粘贴/本地文件/文件夹资料录入、审核与发布流程、证据不足拒答、私密模式提示、运行环境检测、数据库资料持久化入口。
+- 后续接入：模型驱动的结构化提取、已发布知识检索问答、Langfuse 的真实 Trace、Score、Dataset 写入。
